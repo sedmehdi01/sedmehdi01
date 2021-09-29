@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sedmehdi01
+- 👀 I’m interested in python and javascript programing and networking
+- 🌱 I’m currently learning reactjs and Machine Learning
